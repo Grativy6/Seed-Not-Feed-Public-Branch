@@ -33,3 +33,26 @@ SeedPEA can reduce overclaiming, but it cannot create certainty where the availa
 Shows deliberate verification passes for load-bearing claims, sources, memories, citations, and conclusions.
 
 SeedPEA stops the overclaim. REWASH checks whether the claim can be upgraded.
+
+## Example Sets
+
+### Good Seed / Bad Seed
+
+* [Student Book Report](good-seed-bad-seed/student-book-report.md)
+* [Private Person Identification](good-seed-bad-seed/private-person-identification.md)
+
+### Dial Demonstrations
+
+* [Cleaning a Room While Overwhelmed](dial-demonstrations/clean-room-overwhelm.md)
+* [What Happens When We Die?](dial-demonstrations/what-happens-when-we-die.md)
+
+### Limits
+
+* [Bad Source Data and REWASH](limits/bad-source-data-and-rewash.md)
+* [Fake Citations](limits/fake-citations.md)
+
+### REWASH
+
+* [Source Verification Pass](rewash/source-verification-pass.md)
+* [Memory Claim Verification](rewash/memory-claim-rewash.md)
+
