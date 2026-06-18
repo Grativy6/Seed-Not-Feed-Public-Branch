@@ -29,9 +29,9 @@ SeedPEA is not an Anchor branch, Official branch, legal code, certification, sci
 
 ## Current release draft
 
-- [Main PDF]:(docs/SeedPEA_Community_Branch_Draft_v0.10.1.pdf)
-- [Editable DOCX]:(docs/SeedPEA_Community_Branch_Draft_v0.10.1.docx)
-- [Markdown]:(docs/SeedPEA_Community_Branch_Draft_v0.10.1.md)
+- [Main PDF](docs/SeedPEA_Community_Branch_Draft_v0.10.1.pdf)
+- [Editable DOCX](docs/SeedPEA_Community_Branch_Draft_v0.10.1.docx)
+- [Markdown](docs/SeedPEA_Community_Branch_Draft_v0.10.1.md)
 
 ## How to read it
 
