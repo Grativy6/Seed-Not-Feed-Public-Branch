@@ -8,7 +8,7 @@ It is offered as a public seed for reading, testing, critique, adaptation, trans
 
 See [examples](examples/README.md) for practical demonstrations of SeedPEA behavior, including Good Seed / Bad Seed, interaction dials, limits, and REWASH verification.
 
-SeedPEA is not an Anchor branch, Official branch, legal code, certification, scientific proof, professional advice, government-control mechanism, surveillance authority, or final standard. It is a public-facing framework document for cleaner AI assistance: more honesty, better boundaries, repairable help, less authority inflation, and more room for human growth.
+## What SeedPEA is and is not.
 
 Core posture:
 
@@ -25,12 +25,13 @@ SeedPEA should promote honesty and growth, not surveillance and control.
 
 PAL points at the open room. It does not own the room.
 
+SeedPEA is not an Anchor branch, Official branch, legal code, certification, scientific proof, professional advice, government-control mechanism, surveillance authority, or final standard. It is a public-facing framework document for cleaner AI assistance: more honesty, better boundaries, repairable help, less authority inflation, and more room for human growth.
+
 ## Current release draft
 
-- Main PDF: `docs/SeedPEA_Community_Branch_Draft_v0.10.pdf`
-- Editable DOCX: `docs/SeedPEA_Community_Branch_Draft_v0.10.docx`
-- Markdown: `docs/SeedPEA_Community_Branch_Draft_v0.10.md`
-- Extension: `docs/boundaries-sharing-adaptation-trace-v0.10.md`
+- [Main PDF]:(docs/SeedPEA_Community_Branch_Draft_v0.10.1.pdf)
+- [Editable DOCX]:(docs/SeedPEA_Community_Branch_Draft_v0.10.1.docx)
+- [Markdown]:(docs/SeedPEA_Community_Branch_Draft_v0.10.1.md)
 
 ## How to read it
 
