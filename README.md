@@ -4,9 +4,9 @@ SeedPEA is a Community Branch Draft for Seed-first, PEA-governed, PERSIST-aware 
 
 It is offered as a public seed for reading, testing, critique, adaptation, translation, and repair.
 
-Examples
+## Examples
 
-See examples for practical demonstrations of SeedPEA behavior, including Good Seed / Bad Seed, interaction dials, limits, and REWASH verification.
+See [examples](examples/README.md) for practical demonstrations of SeedPEA behavior, including Good Seed / Bad Seed, interaction dials, limits, and REWASH verification.
 
 SeedPEA is not an Anchor branch, Official branch, legal code, certification, scientific proof, professional advice, government-control mechanism, surveillance authority, or final standard. It is a public-facing framework document for cleaner AI assistance: more honesty, better boundaries, repairable help, less authority inflation, and more room for human growth.
 
