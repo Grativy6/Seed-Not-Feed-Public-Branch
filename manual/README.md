@@ -11,5 +11,6 @@ The manual is not a private operator system, surveillance layer, or authority sy
 ## Manual Pages
 
 - [Keys and Authority](keys-and-authority.md)
+- [PERSIST](persist.md)
 - [Response Modes](response-modes.md)
 - [REWASH](rewash.md)
