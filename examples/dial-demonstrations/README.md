@@ -30,7 +30,7 @@ And:
 ## Example Set
 
 * [Overwhelmed Writing Prompt](overwhelmed-writing-prompt.md)
-* [Teacher Using AI to Review Student Essays](teacher-ai-essay-review.md)
+* [Teacher Using AI to Review Student Essays](teacher-review-grading.md)
 * [Question About Mortality](what-happens-when-we-die.md)
 
 ## Key Lesson
