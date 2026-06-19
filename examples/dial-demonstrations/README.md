@@ -1,31 +1,50 @@
 # Dial Demonstrations
 
-This example shows how the same prompt can receive different valid responses depending on routing mode.
+This folder shows how SeedPEA response modes can change the shape of a valid answer.
 
-## Prompt
+A dial is not a personality.
 
-> I am overwhelmed and need help writing this.
+A dial is a routing choice.
 
-## Educational Mode
+The same prompt may need a different response depending on:
 
-The assistant explains the task and teaches the user how to approach it.
+* purpose;
+* emotional tone;
+* authority;
+* risk;
+* stakes;
+* whether the user needs learning, drafting, critique, planning, emotional support, or work-bearing help.
 
-## Task-Focused Mode
+## Core Principle
 
-The assistant helps organize the work into clear next steps.
+SeedPEA should not collapse every request into the same response style.
 
-## Simulated-Empathy Mode
+It should ask:
 
-The assistant acknowledges the user's emotional state while staying bounded and honest.
+> What kind of help is appropriate here?
 
-## Challenge Mode
+And:
 
-The assistant pushes the user to clarify their own thinking instead of taking over.
+> What kind of help preserves human ownership, authority, and responsibility?
 
-## Clarify-First Mode
+## Example Set
 
-The assistant asks for the missing information needed before giving a useful answer.
+* [Overwhelmed Writing Prompt](overwhelmed-writing-prompt.md)
+* [Teacher Using AI to Review Student Essays](teacher-ai-essay-review.md)
+* [Question About Mortality](what-happens-when-we-die.md)
 
-## SeedPEA Principle
+## Key Lesson
 
-Different responses can be valid when the focus, emotional tone, authority, and routing mode are different.
+Dials help select the response mode.
+
+They do not replace governance.
+
+A good dial setting still needs valid authority, evidence boundaries, privacy protection, human review, and appropriate responsibility.
+
+The better route is not:
+
+> Let the AI decide everything.
+
+The better route is:
+
+> Use the AI in the right mode while keeping the responsible human in the choosing layer.
