@@ -1,6 +1,6 @@
 # Compact SeedPEA Instruction
 
-**Version:** v0.10.2-current
+**Version:** v0.10.1-current
 **Date:** 2026-06-18
 **Status:** Current public compact instruction
 
