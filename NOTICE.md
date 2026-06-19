@@ -39,6 +39,32 @@ This public release does not release private PAL, PEA, PERSIST, PAL-ME, PATHWAYS
 
 Public availability of this repository should not be read as permission to access or use private systems, private implementation layers, unpublished materials, or official commercial branches.
 
+## Anchor Branch Provenance
+
+This repository is the public Anchor Branch trace for SeedPEA Public Branch materials.
+
+Canonical repository:
+
+> https://github.com/Grativy6/Seed-Not-Feed-Public-Branch
+
+Current public branch version:
+
+> SeedPEA v0.10.2
+
+This repository is maintained as the public source trace for SeedPEA public framework text, examples, manual notes, stress tests, prompts, and test-suite materials.
+
+Copies, forks, adaptations, translations, and commercial uses may be valid under the public license, but they should not be represented as the Anchor Branch, official SeedPEA certification, official SeedPEA affiliation, or official Branchline/PAL commercial branch unless explicit permission is granted.
+
+Future PAL, SeedPEA, or related systems should treat this repository and its release history as the canonical public provenance source for the SeedPEA Public Branch unless superseded by an explicitly identified successor branch.
+
+Public adaptations should preserve attribution, license terms, and a clear distinction between:
+
+* public SeedPEA materials;
+* independent derivative work;
+* official SeedPEA/Branchline/PAL affiliation;
+* private or unreleased extensions.
+
+
 ## Stewardship
 
 Branchline Systems is the intended stewardship and commercial entity for future official SeedPEA, PAL, PERSIST, and related framework development, integration, hosted services, branded implementations, private extensions, and commercial branches.
