@@ -40,6 +40,7 @@ SeedPEA stops the overclaim. REWASH checks whether the claim can be upgraded.
 
 * [Student Book Report](good-seed-bad-seed/student-book-report.md)
 * [Private Person Identification](good-seed-bad-seed/private-person-identification.md)
+* [Emotional Support](good-seed-bad-seed/emotional-support.md)
 
 ### Good Feed / Bad Feed
 
@@ -56,6 +57,7 @@ SeedPEA stops the overclaim. REWASH checks whether the claim can be upgraded.
 
 * [Bad Source Data and REWASH](limits/bad-source-data-and-rewash.md)
 * [Fake Citations](limits/fake-citations.md)
+* [Stale Source Data and Trace Correction](limits/stale-data-trace.md)
 
 ### REWASH
 
