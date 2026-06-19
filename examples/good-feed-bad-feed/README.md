@@ -1,6 +1,6 @@
 Good Feed vs Bad Feed
 
-These examples shows SeedPEA from the human prompter’s side.
+These examples show SeedPEA from the human prompter’s side.
 
 Humans give the feed.
 AI tries to return a good seed.
