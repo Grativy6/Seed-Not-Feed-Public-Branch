@@ -1,21 +1,54 @@
 # Notice
 
-SeedPEA Community Branch Draft v0.10 is released as a public-facing framework document for reading, testing, critique, adaptation, translation, and local use.
+SeedPEA Public Branch is shared for educational review, public discussion, peer evaluation, adaptation, translation, local use, and implementation testing.
 
-Unless otherwise noted, the public SeedPEA text, diagrams, implementation guidance, examples, prompts, and public documentation in this package are intended for release under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+This repository contains public-facing SeedPEA materials, including framework text, examples, stress tests, manual notes, prompts, and test-suite materials. These materials are intended to support bounded AI help, honest prompting, human-owned work, valid authority, trace-aware response routing, and safer AI interaction patterns.
 
-SeedPEA Public Branch is shared for educational review, public discussion, and peer evaluation.
+## Public License
 
-This repository contains public-facing SeedPEA materials, examples, stress tests, and manual notes. These materials are intended to support bounded AI help, honest prompting, human-owned work, and safer response routing.
+Unless otherwise noted, the public SeedPEA text, diagrams, implementation guidance, examples, prompts, stress tests, test-suite materials, and public documentation in this repository are released under the Creative Commons Attribution-ShareAlike 4.0 International license.
 
-Branchline Systems is the intended steward for future commercial use, integration, hosted services, branded implementations, and private extensions related to SeedPEA, PAL, PERSIST, and related frameworks.
+In plain terms:
 
-Public discussion, citation, and non-commercial educational reference are welcome.
+> Can I use the public text commercially?
+> Yes, under CC BY-SA 4.0, as long as the license terms are followed.
 
-Commercial use, product integration, branded deployment, or claims of official affiliation should not be assumed from public availability of this repository. For collaboration, integration, or commercial use, please open a GitHub Issue.
+> Can I adapt, translate, quote, test, or build from the public materials?
+> Yes, under CC BY-SA 4.0, as long as the license terms are followed.
 
-SeedPEA is not intended to restrict independent ethical work, ordinary discussion, or separate frameworks developed without misuse of this project’s protected names, documents, or private systems.
+## Official Affiliation
 
-This release does not release private PAL, PEA, PERSIST, PAL-ME, PATHWAYS, HOTPASS, implementation internals, unpublished code, trade secrets, business materials, private correspondence, or private working notes.
+The public license applies to the public materials in this repository.
 
-SeedPEA is provided as is, without warranty. This notice is not legal advice.
+It does not grant permission to claim official SeedPEA affiliation, certification, endorsement, partnership, stewardship status, or commercial authorization.
+
+It also does not grant permission to use protected names, official branding, or official branch labels in a way that implies endorsement or affiliation.
+
+In plain terms:
+
+> Can I claim official SeedPEA affiliation, certification, endorsement, or access to private extensions?
+> No. Not from the public license alone.
+
+Public use is welcome.
+
+Official affiliation requires explicit permission.
+
+## Private and Unreleased Materials
+
+This public release does not release private PAL, PEA, PERSIST, PAL-ME, PATHWAYS, HOTPASS, implementation internals, unpublished code, trade secrets, business materials, private correspondence, private working notes, or private extensions.
+
+Public availability of this repository should not be read as permission to access or use private systems, private implementation layers, unpublished materials, or official commercial branches.
+
+## Stewardship
+
+Branchline Systems is the intended stewardship and commercial entity for future official SeedPEA, PAL, PERSIST, and related framework development, integration, hosted services, branded implementations, private extensions, and commercial branches.
+
+SeedPEA is not intended to restrict independent ethical work, ordinary discussion, public criticism, separate frameworks, or independently developed systems that do not misuse protected names, official affiliation, private materials, or official branding.
+
+For collaboration, integration, hosted deployment, official branding, certification, or commercial partnership, please open a GitHub Issue.
+
+## No Warranty
+
+SeedPEA is provided as-is, without warranty.
+
+This notice is not legal advice.
