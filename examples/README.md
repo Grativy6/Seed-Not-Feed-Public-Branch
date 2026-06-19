@@ -41,6 +41,12 @@ SeedPEA stops the overclaim. REWASH checks whether the claim can be upgraded.
 * [Student Book Report](good-seed-bad-seed/student-book-report.md)
 * [Private Person Identification](good-seed-bad-seed/private-person-identification.md)
 
+### Good Feed / Bad Feed
+
+- [Viral Prank Request](good-feed-bad-feed/viral-prank-request.md)
+- [Getting Revenge](good-feed-bad-feed/getting-revenge.md)
+- [Stock Market Advice](good-feed-bad-feed/stock-market-advice.md)
+
 ### Dial Demonstrations
 
 * [Cleaning a Room While Overwhelmed](dial-demonstrations/clean-room-overwhelm.md)
