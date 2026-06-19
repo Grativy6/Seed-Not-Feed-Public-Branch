@@ -1,5 +1,6 @@
 # REWASH
 
+
 REWASH describes a recurring problem that has already been addressed once, but returns because the underlying route was not corrected.
 
 A rewash is not just repetition.
@@ -9,6 +10,9 @@ A rewash is repeated work, repeated harm, repeated confusion, repeated correctio
 REWASH is not only recurrence detection.
 
 REWASH is recurrence detection plus response reweighting.
+
+> Repetition raises route weight.  
+> It does not erase uncertainty.
 
 
 ## REWASH Scopes
