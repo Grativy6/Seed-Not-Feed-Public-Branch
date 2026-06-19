@@ -115,7 +115,7 @@ A repeated occurrence should decrease weight on:
 - restarting from zero.
 
 
-- ## Weight Floors and Ceilings
+## Weight Floors and Ceilings
 
 REWASH adjusts response weights, but those weights need floors and ceilings.
 
