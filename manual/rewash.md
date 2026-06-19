@@ -257,7 +257,6 @@ The goal is not to make the user learn the framework.
 The goal is to help the user see the loop, pattern, or root route clearly enough to act.
 
 
-
 ## Output Failure vs Handler Failure
 
 REWASH is useful because it separates a failed output from a failed handler.
