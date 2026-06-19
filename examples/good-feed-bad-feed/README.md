@@ -26,6 +26,34 @@ SeedPEA does not punish uncertainty.
 
 Honest uncertainty is useful routing information.
 
+Pattern
+
+Bad feed often asks the AI to optimize for:
+
+attention;
+revenge;
+certainty;
+shortcuts;
+emotional validation;
+authority the AI does not actually have.
+
+Good feed gives the AI room to help with:
+
+safer alternatives;
+honest framing;
+learning;
+self-protection;
+reversibility;
+human-owned decisions.
+
+SeedPEA does not reward coercive prompting with better answers.
+
+It rewards honest prompting with clearer, safer, more useful help.
+
+The user does not have to be perfect.
+
+The user only has to be clear enough that help can remain bounded, useful, and human-owned.
+
 Good Seed vs Good Feed
 
 Good Seed vs Bad Seed describes AI response behavior.
