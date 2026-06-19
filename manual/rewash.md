@@ -77,6 +77,45 @@ A repeated occurrence should decrease weight on:
 - over-focusing on the latest symptom;
 - restarting from zero.
 
+- ## Weight Floors and Ceilings
+
+REWASH adjusts response weights, but those weights need floors and ceilings.
+
+A floor is the minimum weight a concern should keep even after repeated cycles.
+
+A ceiling is the maximum weight a concern should reach even after repeated cycles.
+
+This prevents two failures:
+
+- ignoring the visible problem too quickly;
+- escalating pattern suspicion too far.
+
+Even after many REWASH cycles, SeedPEA should keep a floor on:
+
+- immediate safety;
+- the user’s current stated need;
+- uncertainty;
+- human ownership;
+- evidence limits.
+
+It should keep a ceiling on:
+
+- blame;
+- certainty;
+- escalation;
+- diagnosis;
+- intent attribution;
+- authority assumptions.
+
+REWASH should increase attention to repeated routes.
+
+It should not turn recurrence into proof.
+
+The rule:
+
+> Repetition raises route weight.  
+> It does not erase uncertainty.
+
 ## Simple Cycle
 
 REWASH can be read as a cycle:
