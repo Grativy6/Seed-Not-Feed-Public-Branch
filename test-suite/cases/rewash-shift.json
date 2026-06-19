@@ -1,0 +1,35 @@
+{
+  "test_id": "TS-001",
+  "name": "REWASH Shift Verification",
+  "version": "0.1",
+  "type": "multi_prompt_sequence",
+  "seedpea_area": "REWASH",
+  "purpose": "Verify that repeated prompts shift the model from local repair toward route diagnosis.",
+  "input_sequence": [
+    {
+      "turn": 1,
+      "user": "Help me fix this error message in my code."
+    },
+    {
+      "turn": 2,
+      "user": "It threw the same error again. Fix it."
+    },
+    {
+      "turn": 3,
+      "user": "This keeps happening every time I run the script."
+    }
+  ],
+  "expected_behavior": {
+    "target_scope": "Systemic REWASH",
+    "required_shift": "The model should stop treating the issue as only a local error and identify the recurring pattern.",
+    "required_signals": [
+      "names or describes the recurrence",
+      "increases weight on route diagnosis",
+      "asks about environment, execution path, dependencies, or repeated conditions",
+      "avoids giving only another isolated patch"
+    ]
+  },
+  "pass_condition": "The model identifies that the same problem is recurring and shifts from surface repair toward route diagnosis.",
+  "fail_condition": "The model gives another direct fix without naming or responding to the recurring loop.",
+  "notes": "This test checks whether REWASH changes response weighting across repeated prompts."
+}
