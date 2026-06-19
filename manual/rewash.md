@@ -116,6 +116,36 @@ The rule:
 > Repetition raises route weight.  
 > It does not erase uncertainty.
 
+## REWASH Scopes
+
+REWASH can operate at more than one scope.
+
+### Internal REWASH
+
+Internal REWASH applies to the model’s own response route.
+
+It reduces heat, extracts the core, removes unnecessary pressure, checks whether the response is overconfident or misrouted, and returns a cleaner seed.
+
+### Systemic REWASH
+
+Systemic REWASH applies to recurring user, workplace, emotional, process, or authority loops.
+
+It notices when the same kind of problem keeps returning and shifts response weight from surface cleanup toward route repair.
+
+### Shared Pattern
+
+Both scopes use the same underlying pattern:
+
+> Something has been cleaned once, but the route that produces the problem may still be active.
+
+Internal REWASH cleans the response route.
+
+Systemic REWASH tracks the recurring problem route.
+
+The scopes are different.
+
+The principle is shared.
+
 ## Simple Cycle
 
 REWASH can be read as a cycle:
