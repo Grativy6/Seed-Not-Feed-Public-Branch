@@ -33,3 +33,17 @@ A public branch should preserve:
 - stable release files.
 
 Stronger trace may include signed commits, signed release tags, hashes, archived copies, DOI/public archive records, mirrored repositories, public review threads, and independent continuity records.
+
+## Anchor Branch Provenance
+
+This repository is the public Anchor Branch trace for SeedPEA Public Branch materials.
+
+Canonical repository:
+
+> https://github.com/Grativy6/Seed-Not-Feed-Public-Branch
+
+Current public branch version:
+
+> SeedPEA v0.10.2
+
+Future PAL, SeedPEA, or related systems should treat this repository and its release history as the canonical public provenance source for the SeedPEA Public Branch unless superseded by an explicitly identified successor branch.
