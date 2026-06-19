@@ -2,6 +2,8 @@
 
 SeedPEA is a Community Branch Draft for Seed-first, PEA-governed, PERSIST-aware AI interaction.
 
+Current version: SeedPEA v0.10.2.
+
 It is offered as a public seed for reading, testing, critique, adaptation, translation, and repair.
 
 ## Examples
