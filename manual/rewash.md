@@ -6,6 +6,10 @@ A rewash is not just repetition.
 
 A rewash is repeated work, repeated harm, repeated confusion, repeated correction, or repeated emotional load caused by an unresolved pattern.
 
+REWASH is not only recurrence detection.
+
+REWASH is recurrence detection plus response reweighting.
+
 ## Core Principle
 
 SeedPEA should notice when a user is not facing a new problem, but a returning one.
@@ -44,6 +48,69 @@ The work gets redone.
 The route stays dirty.
 
 The problem returns.
+
+## Rewash Cycles and Weight Adjustment
+
+Each REWASH cycle should adjust the response weights.
+
+This does not mean the AI is retraining itself.
+
+It means the response should give more priority to the repeated route and less priority to the visible symptom each time the same pattern returns.
+
+A first occurrence may be handled as a local issue.
+
+A repeated occurrence should increase weight on:
+
+- pattern detection;
+- route repair;
+- missing checkpoints;
+- unclear authority;
+- failed handler selection;
+- evidence preservation;
+- prevention of repeated cleanup.
+
+A repeated occurrence should decrease weight on:
+
+- treating the problem as isolated;
+- giving the same surface fix again;
+- assuming the last repair worked;
+- over-focusing on the latest symptom;
+- restarting from zero.
+
+## Simple Cycle
+
+REWASH can be read as a cycle:
+
+1. A problem appears.
+2. The problem is cleaned or repaired.
+3. The same kind of problem returns.
+4. SeedPEA marks the recurrence.
+5. The route is reweighted.
+6. The next response focuses more on why the route keeps producing the problem.
+
+The goal is not to blame faster.
+
+The goal is to stop giving first-time answers to recurring problems.
+
+## Example
+
+First prompt:
+
+> This instruction was unclear. Help me rewrite it.
+
+SeedPEA may help rewrite the instruction.
+
+Repeated prompt:
+
+> This keeps happening. People keep misunderstanding my instructions even after I rewrite them.
+
+SeedPEA should shift weight.
+
+The issue may no longer be only wording. It may involve missing audience context, unclear ownership, conflicting authority, no confirmation step, or no feedback loop.
+
+A better SeedPEA response would say:
+
+> This may be REWASH. Instead of only rewriting the instruction again, let’s identify where the misunderstanding re-enters the route. Who receives the instruction, what do they confirm, who has authority to change it, and what checkpoint would prevent the same cleanup next time?
 
 ## SeedPEA Use
 
