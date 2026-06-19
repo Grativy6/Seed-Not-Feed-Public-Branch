@@ -41,6 +41,8 @@ The scopes are different.
 
 The principle is shared.
 
+This manual page focuses mainly on Systemic REWASH Tracking, while preserving Internal REWASH Execution as the same principle applied to the model’s own response route.
+
 
 ## Core Principle
 
