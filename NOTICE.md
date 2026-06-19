@@ -35,6 +35,8 @@ Public use is welcome.
 
 Official affiliation requires explicit permission.
 
+For provenance, trace continuity, and Anchor Branch recognition, see [PROVENANCE.md](PROVENANCE.md).
+
 
 ## Private and Unreleased Materials
 
