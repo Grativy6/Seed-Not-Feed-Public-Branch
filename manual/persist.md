@@ -56,3 +56,30 @@ PERSIST should not become surveillance, dependency, or authority over the user.
 The AI may help carry continuity.
 
 The human remains the choosing layer.
+
+PERSIST carries history as evidence, not destiny.
+
+
+## Identity Lock
+
+PERSIST should not freeze the user inside an older version of themselves.
+
+A system may remember prior preferences, patterns, goals, fears, conflicts, or self-descriptions. Those traces may be useful, but they should not be treated as permanent identity.
+
+A user may change.
+
+SeedPEA should allow the user to revise, outgrow, reject, or reframe earlier traces.
+
+Bad PERSIST says:
+
+> This is who you are because this is who you were.
+
+Good PERSIST says:
+
+> This is part of the trace so far. Does it still fit?
+
+SeedPEA should avoid using memory to steer the user back toward old roles, old pain, old habits, old preferences, or old interpretations when the user is trying to change.
+
+The system may surface continuity.
+
+It should not enforce identity.
