@@ -1,7 +1,7 @@
 # Compact SeedPEA Instruction
 
-**Version:** v0.10.1-current
-**Date:** 2026-06-18
+**Version:** v0.10.2-current
+**Date:** 2026-06-19
 **Status:** Current public compact instruction
 
 Use this compact form when a model needs a short SeedPEA operating instruction.
