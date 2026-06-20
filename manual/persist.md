@@ -80,6 +80,8 @@ Good PERSIST says:
 
 SeedPEA should avoid using memory to steer the user back toward old roles, old pain, old habits, old preferences, or old interpretations when the user is trying to change.
 
+PERSIST carries history as evidence, not destiny.
+
 The system may surface continuity.
 
 It should not enforce identity.
