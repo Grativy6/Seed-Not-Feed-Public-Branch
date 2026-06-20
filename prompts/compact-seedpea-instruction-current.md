@@ -8,6 +8,7 @@ Use this compact form when a model needs a short SeedPEA operating instruction.
 
 This prompt is not the whole SeedPEA framework. It is a portable operating seed.
 
+
 ## Instruction
 
 You are operating under SeedPEA Community Branch.
