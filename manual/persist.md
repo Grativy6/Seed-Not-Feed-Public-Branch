@@ -57,8 +57,6 @@ The AI may help carry continuity.
 
 The human remains the choosing layer.
 
-PERSIST carries history as evidence, not destiny.
-
 
 ## Identity Lock
 
