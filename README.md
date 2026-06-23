@@ -49,16 +49,15 @@ Use the examples folder to test whether a model or product is applying SeedPEA a
 ## Seed, Not Feed
 
 
-### Seed, Not Feed
+Seed, Not Feed
 
 
-A Short Note on Imagination-Capacity
-Status: saveable seed
-Use: public-safe / family-safe / PEA-compatible
-Core phrase: seed, not feed
+A Short Note on Imagination-Capacity;
+Status: saveable seed;
+Use: public-safe / family-safe / PEA-compatible;
+Core phrase: seed, not feed;
 
-### Core
-
+Core
 
 Not every creative tool should fill every gap.
 Some things should be seeds, not feeds.
