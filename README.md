@@ -57,7 +57,7 @@ Status: saveable seed
 Use: public-safe / family-safe / PEA-compatible
 Core phrase: seed, not feed
 
-###Core
+### Core
 
 
 Not every creative tool should fill every gap.
