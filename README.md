@@ -50,10 +50,10 @@ Use the examples folder to test whether a model or product is applying SeedPEA a
 
 `##Seed, Not Feed`
 
-A Short Note on Imagination-Capacity
-Status: saveable seed
-Use: public-safe / family-safe / PEA-compatible
-Core phrase: seed, not feed
+A Short Note on Imagination-Capacity  
+Status: saveable seed  
+Use: public-safe / family-safe / PEA-compatible  
+Core phrase: seed, not feed  
 
 ### Core
 Not every creative routine should fill every gap.
