@@ -102,7 +102,7 @@ Protect the child’s room to imagine.
 Seed, not feed.  
 Leave handles.  
 Leave doors.  
-Leave quiet.
-Leave room.
-Do not consume all the potential space.
+Leave quiet.  
+Leave room.  
+Do not consume all the potential space.  
 Some of that space belongs to the person who will grow there.
