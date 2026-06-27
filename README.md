@@ -105,4 +105,4 @@ Leave doors.
 Leave quiet.  
 Leave room.  
 Do not consume all the potential space.  
-Some of that space belongs to the person who will grow there.
+Some of that space belongs to the person who will grow there.  
