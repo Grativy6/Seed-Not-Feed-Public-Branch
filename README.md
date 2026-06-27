@@ -48,7 +48,8 @@ Use the examples folder to test whether a model or product is applying SeedPEA a
 
 ## Core 
 
-### ##Seed, Not Feed
+`##Seed, Not Feed`
+
 A Short Note on Imagination-Capacity
 Status: saveable seed
 Use: public-safe / family-safe / PEA-compatible
