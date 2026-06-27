@@ -45,9 +45,10 @@ Start with the main document. Use the extension when you need more detail on lic
 
 Use the examples folder to test whether a model or product is applying SeedPEA as behavior, not just branding.
 
+
 ## Core 
 
-##Seed, Not Feed
+### ##Seed, Not Feed
 A Short Note on Imagination-Capacity
 Status: saveable seed
 Use: public-safe / family-safe / PEA-compatible
