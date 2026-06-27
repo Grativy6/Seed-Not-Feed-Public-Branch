@@ -56,52 +56,52 @@ Use: public-safe / family-safe / PEA-compatible
 Core phrase: seed, not feed  
 
 ### Core
-Not every creative routine should fill every gap.
-Some things should be seeds, not feeds.
-A feed can contain a seed.
-A seed gives a person a starting point and leaves room for imagination.
-A feed with no seed keeps filling the space until there is no room left to wonder, build, play, think, judge, or grow.
+Not every creative routine should fill every gap.  
+Some things should be seeds, not feeds.  
+A feed can contain a seed.  
+A seed gives a person a starting point and leaves room for imagination.  
+A feed with no seed keeps filling the space until there is no room left to wonder, build, play, think, judge, or grow.  
 
 ### Why It Matters
-Human imagination needs open space.
-Boredom is not always failure.
-Silence is not always empty.
-A blank page is not broken.
-A question does not need to be answered instantly.
-Some gaps are where curiosity starts.
-If every gap is filled by endless content, the person may stop practicing the inner motion of imagining.
-That matters for adults.
-It matters even more for children.
+Human imagination needs open space.  
+Boredom is not always failure.  
+Silence is not always empty.  
+A blank page is not broken.  
+A question does not need to be answered instantly.  
+Some gaps are where curiosity starts.  
+If every gap is filled by endless content, the person may stop practicing the inner motion of imagining.  
+That matters for adults.  
+It matters even more for children.  
 
 ### Imagination-Capacity
-Imagination-capacity is the room a person has to wonder, pretend, explore, make, revise, and grow an idea from the inside.
-A good tool should protect that capacity.
-It should offer handles, doors, routes, and seeds.
-It should not consume all attention.
-It should not replace the person’s own inner play.
-It should not turn every quiet moment into a feed.
+Imagination-capacity is the room a person has to wonder, pretend, explore, make, revise, and grow an idea from the inside.  
+A good tool should protect that capacity.  
+It should offer handles, doors, routes, and seeds.  
+It should not consume all attention.  
+It should not replace the person’s own inner play.  
+It should not turn every quiet moment into a feed.  
 
 ### Design Rule
-Give people something to grow.
-Do not give them something that eats all the growing space.
-A healthy artifact should leave room around itself.
-It should invite imagination, not replace it.
-It should support curiosity, not trap attention.
-It should help a person begin, not keep them endlessly consuming.
+Give people something to grow.  
+Do not give them something that eats all the growing space.  
+A healthy artifact should leave room around itself.  
+It should invite imagination, not replace it.  
+It should support curiosity, not trap attention.  
+It should help a person begin, not keep them endlessly consuming.  
 
 ### Child Layer
-For children, attention is not just screen time.
-It is childhood time.
-It is body time, outside time, family time, boredom time, making-stuff time, asking-questions time, and becoming-a-person time.
-A system that steals all of that does not merely entertain.
-It consumes imagination-capacity.
-So the safer rule is:
-Protect the child’s room to imagine.
+For children, attention is not just screen time.  
+It is childhood time.  
+It is body time, outside time, family time, boredom time, making-stuff time, asking-questions time, and becoming-a-person time.  
+A system that steals all of that does not merely entertain.  
+It consumes imagination-capacity.  
+So the safer rule is:  
+Protect the child’s room to imagine.  
 
-## Closing
-Seed, not feed.
-Leave handles.
-Leave doors.
+### Closing
+Seed, not feed.  
+Leave handles.  
+Leave doors.  
 Leave quiet.
 Leave room.
 Do not consume all the potential space.
